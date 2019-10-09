@@ -7,6 +7,7 @@ Exercice 1 DARK TRADER:
 recupération de donées via un site qui suit le cours des cryptomonnaies en live.
 
 Exercice 2 Marie Chrismas
-
+ici on récupère les adresses e-mails des mairies du Val d'Oise.
+on recupere aussi les email de chaques mairie.
 
 Exercice 3 Cher Député
