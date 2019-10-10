@@ -11,3 +11,4 @@ ici on récupère les url des mairies du Val d'Oise.
 on recupere aussi les email de chaques mairie.
 
 Exercice 3 Cher Député
+dans cet ecercie on scrappe un site web afin d'obtenir toutes les coordonnées des députés, adreesses mails noms et prénoms 
