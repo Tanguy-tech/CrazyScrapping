@@ -39,7 +39,7 @@ def get_townhall_names
 end
 
 # perform execute et affiche l'ensemble du programme
-def perform
+def perform()
     hyp = get_townhall_valdoise_url
     city = get_townhall_names
     i = 0
